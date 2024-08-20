@@ -49,4 +49,5 @@ salesperson will appear for all customers and vice versa for that salesperson wh
 salesperson will appear for every customer and vice versa for those salesmen who belong to a city and
 customers who require a grade.
 10. Write a SQL statement to make a Cartesian product between salesman and customer i.e. each salesman
-will appear for all customers and vice versa for those salesmen who mu
+will appear for all customers and vice versa for those salesmen who muust belong to a city which is not the
+same as his customer and the customers should have their own grade.
