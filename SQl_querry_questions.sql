@@ -1,0 +1,22 @@
+--From the above given tables perform the following SQL queries (Join):
+--1. Write a SQL query to find the salesperson and customer who reside in the same city. Return Salesman,
+--cust_name and city.
+--2. Write a SQL query to find those orders where the order amount exists between 500 and 2000. Return ord_no,
+--purch_amt, cust_name, city.
+--3. Write a SQL query to find the salesperson(s) and the customer(s) he represents. Return Customer Name,
+--city, Salesman, commission.
+--4. Write a SQL query to find salespeople who received commissions of more than 12 percent from the
+--company. Return Customer Name, customer city, Salesman, commission.
+--5. Write a SQL query to locate those salespeople who do not live in the same city where their customers live
+--and have received a commission of more than 12% from the company. Return Customer Name, customer
+--city, Salesman, salesman city, commission.
+--6. Write a SQL query to find the details of an order. Return ord_no, ord_date, purch_amt, Customer Name, grade,
+--Salesman, commission.
+--7. Write a SQL statement to join the tables salesman, customer and orders so that the same column of each
+--table appears once and only the relational rows are returned.
+--8. Write a SQL query to display the customer name, customer city, grade, salesman, salesman city. The results
+--should be sorted by ascending customer_id.
+--9. Write a SQL query to find those customers with a grade less than 300. Return cust_name, customer city,
+--grade, Salesman, salesmancity. The result should be ordered by ascending customer_id. --10. Write a SQL statement to make a report with customer name, city, order number, order date, and order
+--amount in ascending order according to the order date to determine whether any of the existing customers
+--have placed an order or not.
